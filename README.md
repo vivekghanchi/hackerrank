@@ -1,4 +1,4 @@
-# hackerrank
+# Hackerrank
 ##### A compilation of hackerrank solutions.
 ---
 ### _Algorithms_
