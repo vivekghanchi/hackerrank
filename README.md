@@ -10,4 +10,4 @@
 * ###### [_Arrays - DS_](ds/arrays/arrays-ds.c)
 ---
 ### Developed by:
-##### [Prateek Chaplot](https://github.com/prateekchaplot)
+##### [Vivek Ghanchi](https://github.com/vivekghanchi)
