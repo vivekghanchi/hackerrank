@@ -1,5 +1,5 @@
 # Hackerrank
-##### A compilation of hackerrank solutions.
+##### A compilcate problem of hackerrank .
 ---
 ### _Algorithms_
 ##### _Implementation_
